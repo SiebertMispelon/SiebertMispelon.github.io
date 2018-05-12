@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SiebertMispelon",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2281,7 +2281,7 @@
     "page5.html": {
       "settings": {
         "meta_descr": "Web Generator Description",
-        "title": "HOME",
+        "title": "HOME 3",
         "order": 4
       },
       "components": [
@@ -7424,7 +7424,7 @@
     "index.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "HOME 2",
+        "title": "HOME&nbsp;",
         "order": 3
       },
       "components": [
